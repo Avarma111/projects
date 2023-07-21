@@ -9,8 +9,7 @@ ONLINE SHOPPING BEHAVIOURS
 - Transformed large data from session and hit levels using Google Big Query into a unnested, relation table. The data covered a period of 1 year and consisted of over 1.4 billion records.
 - Designed tableau dashboard to visualize the data, measuring for 5 business dimensions, including website traffic, traffic source, traffic per location, acquisition per channel and top 10 performing pages.
 - Identified that the top traffic source for the website was organic and YouTube, accounting for more than 50% of all website traffic. The website received 2 million unique visitors and 5 million pageviews over the period I evaluated.
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+<img src="images/Disasters.png?raw=true"/>
 
 ---
 SALES PERFORMANCE
@@ -28,7 +27,7 @@ DISASTER PATTERNS IN CANADA
 -	The project involved working with a large volume of data spanning more than 10 years and over 10,000 disaster events.
 -	KPIs included frequency of disaster, severity of disaster, disaster type distribution and disaster location analysis.
 -	Identified that certain region were more prone to disaster than others, with 60% of all disaster occurring in just 3 of the 13 Canadian provinces.
-<img src="images/Random Forest AOC.png?raw=true"/>
+<img src="images/git.dt.png?raw=true"/>
 
 
 
