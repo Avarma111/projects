@@ -23,11 +23,11 @@ SALES PERFORMANCE
 <img src="images/Retail Analytic1.png?raw=true"/>
 
 ---
-Home Credit Default Risk Prediction (SQL, Machine Learning, Python)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
+DISASTER PATTERNS IN CANADA
+-	Developed BI project analyzing a Canadian disaster database to gain insights into disaster trends and identify areas for disaster mitigation and response.
+-	The project involved working with a large volume of data spanning more than 10 years and over 10,000 disaster events.
+-	KPIs included frequency of disaster, severity of disaster, disaster type distribution and disaster location analysis.
+-	Identified that certain region were more prone to disaster than others, with 60% of all disaster occurring in just 3 of the 13 Canadian provinces.
 <img src="images/Random Forest AOC.png?raw=true"/>
 
 
@@ -36,5 +36,4 @@ Home Credit Default Risk Prediction (SQL, Machine Learning, Python)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
