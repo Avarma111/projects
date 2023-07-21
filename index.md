@@ -19,7 +19,7 @@ SALES PERFORMANCE
 - Identified that the highest revenue generating product category was Bike, with sales over $ 77 million. The top 10 performing product (out of 257) were generating over $ 26 million in revenue, contributing to 30% of the revenue.
 - Discovered that USA accounted for 44% of sales, however the highest profit margin of it was 47 % which is 10 % lower than that of Australia.
   
-<img src="images/Retail Analytic.png?raw=true"/>
+<img src="images/new_ra.png?raw=true"/>
 
 
 ---
