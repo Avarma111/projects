@@ -20,8 +20,7 @@ SALES PERFORMANCE
 - Discovered that USA accounted for 44% of sales, however the highest profit margin of it was 47 % which is 10 % lower than that of Australia.
   
 <img src="images/Retail Analytic.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
+
 
 ---
 DISASTER PATTERNS IN CANADA
