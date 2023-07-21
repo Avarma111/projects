@@ -1,10 +1,11 @@
 title:   Avinash Varma
 logo: "/images/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Results-driven data analyst with experiences and a track record of delivering innovative technical solutions that enhance the experience of both customers and analytic professionals. Proficient in SQL, Python, and Power BI, with a validated competence to automate dashboards, streamline processes, and provide tactical direction to stakeholders using easy-to-understand language. Skilled in analyzing behavioral data, identifying business gaps, and developing solutions that meet the needs of both internal and external stakeholders.
-  <br><br><br>
+  <br><br>
+  Dedicated Analyst with an experience in customer service and client relationship management with an educational background in marketing management and financial service. Sound knowledge of data manipulation tools with an eye for detail, a strong analytical ability and a real time relative experience with personal projects using various programming tools.
+  <br><br>
+  <a href="https://www.linkedin.com/in/avinash-varma-67aba390">View My LinkedIn Profile</a>
+
   
-
-
- theme: jeky11-theme-mininal
+theme: jekyll-theme-minimal   
  
