@@ -1,6 +1,6 @@
-## Projects
+## PROJECTS
 ---
-RETAIL BUSINESS ANALYSIS
+## RETAIL BUSINESS ANALYSIS
 
 The primary objective is to provide actionable insights to drive strategic decisions that enhance sales performance, optimize product portfolios, and improve customer and reseller relationships. Success is measured by:
 - Increased sales and profit margins
@@ -12,7 +12,7 @@ The primary objective is to provide actionable insights to drive strategic decis
 <img src="images/Disasters.png?raw=true"/>
 
 ---
-CUSTOMER ONLINE SHOPPING BEHAVIOURS 
+## CUSTOMER ONLINE SHOPPING BEHAVIOURS 
 
 The project's objective is to improve website traffic and user engagement by developing effective digital marketing campaings and improving website performance. The project aims to achieve the following goals:
 - Increase website traffic by 10% in the next six months
@@ -23,7 +23,7 @@ The project's objective is to improve website traffic and user engagement by dev
 <img src="images/new_ra.png?raw=true"/>
 
 ---
-FINTECH
+## FINTECH
 
 The Objective of this project is to assess the credit risk of the loan portfolio and make decisions on loan origination and loss provisioning. However, the manual process of generating these reports is time-consuming, error-prone, and lacks flexibility. The project aims to achieve the following goals:
 - Develope an automated solution to generate Roll Rate Report, Loss Provisioning Report, and Vintage Analysis Report based on loan data.
