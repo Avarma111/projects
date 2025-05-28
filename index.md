@@ -2,7 +2,8 @@
 ---
 ## RETAIL BUSINESS ANALYSIS
 
-The primary objective is to provide actionable insights to drive strategic decisions that enhance sales performance, optimize product portfolios, and improve customer and reseller relationships. Success is measured by:- Increased sales and profit margins
+The primary objective is to provide actionable insights to drive strategic decisions that enhance sales performance, optimize product portfolios, and improve customer and reseller relationships. Success is measured by:
+- Increased sales and profit margins
 - Improved market penetration in underperforming territories
 - Enchanced customer satisfaction and retention
 - Optimized product mix leading to higher profitability
