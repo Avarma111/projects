@@ -10,8 +10,7 @@ The primary objective is to provide actionable insights to drive strategic decis
 - Efficient reseller management and performance improvement.
 
 <img src="Retail1.png"/>
-
----
+<img src="Retail2.png"/>---
 ## CUSTOMER ONLINE SHOPPING BEHAVIOURS 
 
 The project's objective is to improve website traffic and user engagement by developing effective digital marketing campaings and improving website performance. The project aims to achieve the following goals:
