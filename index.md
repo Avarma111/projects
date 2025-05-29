@@ -31,7 +31,7 @@ The Objective of this project is to assess the credit risk of the loan portfolio
 - Identify the drivers of loan defaults and assess the credit risk of the loan portfolio by segement and vintage
 
 <img src="Fintech.png1.png"/>
-
+<img src="Fintech.png2.png"/>
 
 
 
