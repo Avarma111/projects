@@ -13,7 +13,7 @@ The primary objective is to provide actionable insights to drive strategic decis
 <img src="Retail2.png"/>
 
 ---
-# CUSTOMER ONLINE SHOPPING BEHAVIOURS 
+# ONLINE SHOPPING BEHAVIOURS 
 
 The project's objective is to improve website traffic and user engagement by developing effective digital marketing campaings and improving website performance. The project aims to achieve the following goals:
 - Increase website traffic by 10% in the next six months
