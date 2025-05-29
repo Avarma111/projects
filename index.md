@@ -9,7 +9,7 @@ The primary objective is to provide actionable insights to drive strategic decis
 - Optimized product mix leading to higher profitability
 - Efficient reseller management and performance improvement.
 
-<img src="images/Disasters.png?raw=true"/>
+<img src="Retail1.png"/>
 
 ---
 ## CUSTOMER ONLINE SHOPPING BEHAVIOURS 
