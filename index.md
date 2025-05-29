@@ -20,7 +20,7 @@ The project's objective is to improve website traffic and user engagement by dev
 - Improve website load time by 10% in the next six months
 - Increase user engagement by 10% in the next six months
   
-<img src="images/new_ra.png?raw=true"/>
+<img src="GMS.png"/>
 
 ---
 ## FINTECH
